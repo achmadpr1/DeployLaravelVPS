@@ -30,11 +30,6 @@ sudo apt install -y nginx
 sudo apt install -y composer
 ```
 
-# Clone repository kalian kedalam folder /srv
-```
-git clone <URLrepo> /srv/app
-```
-
 # Buat Database
 
 ```
@@ -48,6 +43,11 @@ flush privileges;
 ```
 ```
 exit
+```
+
+# Clone repository kalian kedalam folder /srv
+```
+git clone <URLrepo> /srv/app
 ```
 
 # Masuk ke folder aplikasi kalian dan ubah file .env.example menjadi file .env
