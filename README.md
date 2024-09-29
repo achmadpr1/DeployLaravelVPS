@@ -77,7 +77,7 @@ sudo chmod -R 775 public && sudo chmod -R 777 storage
 nano /etc/nginx/sites-enabled/default
 ```
 
-Hapus semua isi file dan silahkan paste dengan configurasi dibawah ini :
+- Hapus semua isi file dan silahkan paste dengan configurasi dibawah ini :
 
 ```
 server {
