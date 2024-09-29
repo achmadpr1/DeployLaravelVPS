@@ -17,7 +17,7 @@ sudo add-apt-repository -y ppa:ondrej/php
 sudo apt update
 ```
 ```
-sudo apt install php8.1-fpm php8.1-common php8.1-mysql php8.1-xml php8.1-ctype php8.1-curl php8.1-gd php8.1-dom php8.1-cli php8.1-dev php8.1-imap php8.1-mbstring php8.1-soap php8.1-zip php8.1-bcmath php8.1-fileinfo php8.1-pdo php8.1-tokenizer -y
+sudo apt install php8.3-fpm php8.3-common php8.3-mysql php8.3-xml php8.3-ctype php8.3-curl php8.3-gd php8.3-dom php8.3-cli php8.3-dev php8.3-imap php8.3-mbstring php8.3-soap php8.3-zip php8.3-bcmath php8.3-fileinfo php8.3-pdo php8.3-tokenizer -y
 ```
 
 # Install NGINX
