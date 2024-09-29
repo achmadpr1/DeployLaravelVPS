@@ -2,8 +2,8 @@
 Beberapa hal yang kamu perlukan :
 
 project Laravel
-VPS / Virtual Private Server
-Domain (jika punya)
+- VPS / Virtual Private Server
+- Domain (jika punya)
 
 # Install database sesuai dengan database Laravel kalian (disini saya menggunakan mysql)
 ```
